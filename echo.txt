@@ -1,4 +1,0 @@
-Echo file
-Writing here !! 
-
-Hello World !!!!
